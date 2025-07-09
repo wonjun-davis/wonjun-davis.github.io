@@ -26,8 +26,8 @@ menu:
       name: Project
       url: /project/
       weight: 20
-    - identifier: Logbook
-      name: Logbook
+    - identifier: Logs
+      name: Logs
       url: /logs/
       weight: 30
       
