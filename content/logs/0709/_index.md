@@ -1,7 +1,7 @@
 ---
 title: "TITLE"
 author: "Wonjun Seo"
-summary: "ABC
+summary: "ABC"
 ---
 
 ## Test
