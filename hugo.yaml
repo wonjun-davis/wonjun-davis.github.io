@@ -15,7 +15,7 @@ params:
     imageWidth: 300 # custom size
     imageHeight: 300 # custom size
   assets:
-    disableFingerprinting: true  # optional, 디버깅 편하게
+    disableFingerprinting: true
     bundles:
       - css/extended/theme-vars-override.css
 
