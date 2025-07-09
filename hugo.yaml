@@ -11,9 +11,9 @@ params:
     enabled: true
     title: "Team A"
     subtitle: "Description"
-    imageUrl: "butter.jpeg"
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageUrl: "home.jpeg"
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
 
 
 menu:
