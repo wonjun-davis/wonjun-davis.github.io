@@ -5,4 +5,4 @@ author: "Wonjun Seo"
 ---
 Git is difficult.
 
-![Git](images/git.png)
+![Git](git.png)
