@@ -14,10 +14,6 @@ params:
     imageUrl: "home.png"
     imageWidth: 300 # custom size
     imageHeight: 300 # custom size
-  assets:
-    disableFingerprinting: true
-    bundles:
-      - css/extended/theme-vars-override.css
 
 menu:
   main:
