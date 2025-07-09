@@ -7,6 +7,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   ShowToc: false
+  math: True
   profileMode:
     enabled: true
     title: "Machine Hater"
@@ -29,6 +30,7 @@ menu:
       name: Logbook
       url: /logs
       weight: 30
+      
 markup:
   goldmark:
     renderer:
