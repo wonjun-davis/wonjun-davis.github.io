@@ -20,7 +20,7 @@ menu:
   main:
     - identifier: Members
       name: Members
-      url: /members
+      url: /members/
       weight: 10
     - identifier: Project
       name: Project
@@ -28,7 +28,7 @@ menu:
       weight: 20
     - identifier: Logbook
       name: Logbook
-      url: /logs
+      url: /logs/
       weight: 30
       
 markup:
