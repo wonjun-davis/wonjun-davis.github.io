@@ -1,0 +1,11 @@
+:root {
+  --theme: #f7efe3;
+  --entry: #fbf5ec; 
+  --content: #333333;
+}
+
+.dark {
+  --theme: #2b2b2b;
+  --entry: #3a3a3a;
+  --content: #eeeeee;
+}
