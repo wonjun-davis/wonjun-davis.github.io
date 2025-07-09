@@ -2,7 +2,7 @@
 title: "First Entry"
 date: 2025-07-08
 author: "Wonjun Seo"
-description: "Markdown and Git"
+summary: "Markdown and Git"
 ---
 Markdown was funny.
 
