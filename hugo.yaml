@@ -26,7 +26,10 @@ menu:
       name: Project
       url: /project/
       weight: 20
-
+    - identifier: Logbook
+      name: Logbook
+      url: /logs
+      weight: 30
 markup:
   goldmark:
     renderer:
