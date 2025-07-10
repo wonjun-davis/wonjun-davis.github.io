@@ -2,4 +2,4 @@
 title: "US map: Income and Air Quality"
 ---
 
-{{< plotly obj="aqi" >}}
+<iframe src="/plotly/plot.html" width="100%" height="600px"></iframe>
