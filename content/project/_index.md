@@ -1,26 +1,6 @@
 ---
-title: "Project Title"
-showToc: true
-tocOpen: true
+title: "US map: Income and Air Quality"
 ---
 
-## Introduction
-
-
----
-
-
-## Data
-
-
----
-
-
-## Methodology
-
-
----
-
-
-## Discussion
+<iframe src="plot.html" width="100%" height="600" style="border:none;"></iframe>
 
