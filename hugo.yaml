@@ -33,7 +33,9 @@ menu:
       name: Logs
       url: /logs/
       weight: 30
-      
+    - identifier: course-site
+      name: Course Website 🔗
+      url: https://wonjun-seo.github.io/cosmos/
 markup:
   goldmark:
     renderer:
