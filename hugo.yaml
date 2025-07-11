@@ -9,7 +9,7 @@ params:
   ShowToc: false
   socialIcons:
     - name: github
-      url: "https://github.com/wonjun-seo/cosmos-data-analysis"
+      url: "https://github.com/wonjun-davis/"
   math: True
   profileMode:
     enabled: true
