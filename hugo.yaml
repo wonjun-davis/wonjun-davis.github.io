@@ -7,7 +7,9 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   ShowToc: false
-  ShowDropdown: true
+  socialIcons:
+    - name: github
+      url: "https://github.com/wonjun-seo/cosmos-data-analysis"
   math: True
   profileMode:
     enabled: true
@@ -31,16 +33,6 @@ menu:
       name: Logs
       url: /logs/
       weight: 30
-    - identifier: Links
-      name: Links
-    - identifier: Github
-      name: Github
-      parent: Links
-      url: https://github.com/wonjun-davis/wonjun-davis.github.io
-    - identifier: course-site
-      name: Course Website
-      parent: Links
-      url: https://wonjun-seo.github.io/cosmos/
       
 markup:
   goldmark:
